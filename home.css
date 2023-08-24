@@ -1,0 +1,227 @@
+html {
+    scroll-behavior: smooth;
+}
+body{
+    font-family: Public Sans;
+    font-style: normal;
+}
+
+.top {
+    position: absolute;
+    width: 100%;
+    height: 656px;
+    left: 0px;
+    top: 0px;
+    background: #7AB566;
+}
+.nav{
+    display: flex;
+}
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .nav button{
+    padding: 14px 16px;
+    height:fit-content;
+  }
+h1{
+    text-align: left;
+}
+button:hover {
+    opacity: 0.8;
+  }
+#login{
+    background-color: #121615;
+    color: white;
+    cursor: pointer;
+    width: 120px;
+    border-radius: 10px;
+    font-style: normal;
+}
+#signup{
+        background-color: #7AB566;
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+        width: 120px;
+        border-radius: 10px;
+        font-style: normal;
+}
+#navlinks{
+    margin-left: auto; 
+    margin-right: 0;
+}
+#img1{
+    position: absolute;
+    width: 712px;
+    height: 336.94px;
+    left: 671px;
+    top: 319px;
+
+}
+#text1{
+    position: absolute;
+    width: 734px;
+    height: 139.7px;
+    left: 94px;
+    top: 199px;
+    font-weight: 800;
+    font-size: 57.1516px;
+    line-height: 67px;
+
+    color: #FFFFFF;
+}
+#subtext{
+    position: absolute;
+width: 564px;
+height: 53.8px;
+left: 94px;
+top: 369px;
+font-style: normal;
+font-weight: normal;
+font-size: 22.8989px;
+line-height: 27px;
+
+color: #FFFFFF;
+}
+#steps{
+    position: absolute;
+    width: 288.65px;
+    height: 147px;
+    left: 94px;
+    top: 751px;
+    font-weight: 800;
+    font-size: 46.9357px;
+    line-height: 55px;
+}
+#report{
+    position: absolute;
+    width: 294.45px;
+    height: 227px;
+    left: 405px;
+    top: 733px;
+}
+#collect{
+    position: absolute;
+    width: 294.45px;
+    height: 227px;
+    left: 733px;
+    top: 734px;
+}
+#dispose{
+    position: absolute;
+    width: 294.45px;
+    height: 227px;
+    left: 1065.5px;
+    top: 734px;    
+}
+#initiative{
+    position: absolute;
+    width:100%;
+    height: 569px;
+    left: 0px;
+    top: 1039px;
+
+    background: #7AB566;
+}
+#heart{
+    position: absolute;
+    width: 463px;
+    height: 398.39px;
+    left: 126px;
+    top: 1651px;
+
+}
+#change{
+    position: absolute;
+width: 696px;
+height: 70px;
+left: 674px;
+top: 1677px;
+font-weight: bold;
+font-size: 57.15px;
+line-height: 67px;
+
+color: #000000;
+
+
+}
+#change_sub{
+    position: absolute;
+    width: 564px;
+    height: 53.8px;
+    left: 746px;
+    top: 1777px;
+    font-weight: normal;
+    font-size: 22.8989px;
+    line-height: 27px;
+
+    color: #000000;
+}
+#join{
+    background-color: #121615;
+    color: white;
+    cursor: pointer;
+    width: 120px;
+    border-radius: 10px;
+    font-style: normal;
+}
+.footer{
+    position: absolute;
+    width: 100%;
+    height: 220px;
+    left: 0px;
+    top: 2009px;
+
+    background: #2C2C2C;
+}
+
+.footer a{
+text-decoration: underline;
+}
+#fb{
+    position: absolute;
+    left: 77.78%;
+    right: 20.97%;
+    top: 97.89%;
+    bottom: 1.39%;
+
+}
+#in{
+    
+    position: absolute;
+    left: 81.39%;
+    right: 17.29%;
+    top: 97.89%;
+    bottom: 1.39%;
+}
+#twi{
+    position: absolute;
+    left: 85%;
+    right: 13.75%;
+    top: 97.89%;
+    bottom: 1.39%;
+
+
+}
+
+#you{
+    position: absolute;
+    left: 85%;
+    right: 13.75%;
+    top: 97.89%;
+    bottom: 1.39%;
+
+}
+#ins{
+    position: absolute;
+    left: 92.22%;
+    right: 6.53%;
+    top: 97.89%;
+    bottom: 1.39%;
+    
+}
